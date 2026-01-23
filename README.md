@@ -4,6 +4,7 @@
 
 A professional Python tool to convert PNG images embedded in an Excel workbook into optimized JPG images and insert them into another column on the same row, without modifying the original structure.
 
+![Uploading Image converter project overview.png…]()
 
 
 ---
