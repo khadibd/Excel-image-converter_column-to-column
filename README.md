@@ -217,7 +217,6 @@ Tkinter (UI)
 
 ---
 
-
 ### 👩‍💻 Author
 
 Eng. Khadija Bouadi
